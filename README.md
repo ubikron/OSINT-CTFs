@@ -15,6 +15,9 @@ In this repository, you will find Capture The Flag platforms that will help you 
 |![Bellingcat Open Source Challenge](https://media.licdn.com/dms/image/v2/C4E0BAQFlUwJZkiAblA/company-logo_200_200/company-logo_200_200/0/1631356881719?e=1770249600&v=beta&t=FUMZMrZuZFIbyaNcIUxxb5P9OU8NJzCgUNXkshmk1BQ)| Bellingcat Open Source Challenge | https://challenge.bellingcat.com/  | [Linkedin](https://www.linkedin.com/company/bellingcat/) |
 |![OSMOSIS CTF](https://media.licdn.com/dms/image/v2/D560BAQFaezmnkxkcIQ/company-logo_200_200/B56ZoXd7abKIAM-/0/1761330313297/osmosis_association_logo?e=1770249600&v=beta&t=aZp1q_qxB2TAr6asC_ER2z12qkj7IEv8QsvMN0e-_C0)| OSMOSIS CTF | https://osmosis.ctfd.io/  | [Linkedin](https://linkedin.com/company/osmosis-association) |
 |![Kase Scenarios](https://media.licdn.com/dms/image/v2/C4D0BAQEfVo2g4CsKbg/company-logo_200_200/company-logo_200_200/0/1670093395858/scenarios_by_kase_logo?e=1770249600&v=beta&t=7u_Ik5Oms1kWHu5PXCNGegK-BhNDFljRFe8carmDZwM)| Kase Scenarios | https://kasescenarios.com/  | [Linkedin](https://www.linkedin.com/company/kase-scenarios/) |
+|![OSINT Challenges](https://media.licdn.com/dms/image/v2/D560BAQFDQDl4O3f3ew/img-crop_100/B56Zu1xqmdGsAM-/0/1768281256260?e=1771459200&v=beta&t=aFZBt_utcrFMtwses7_HUZYVbygKY94TpmoqX3K66ig)| OSINT Challenges| https://osintchallenges.com/ | [Linkedin](https://www.linkedin.com/company/osint-challenges/posts/) |
+|![OSINT for FUN](https://media.licdn.com/dms/image/v2/D4E0BAQG-Ugy-dTdg4g/company-logo_200_200/company-logo_200_200/0/1704990128718/osint4fun_logo?e=1771459200&v=beta&t=k7e3ErXDSidj6xEUM0xSI-chSh-cpeupV_Xf67or_AI)| OSINT for FUN | https://en.osint4fun.eu/challenges/ | [Linkedin](https://www.linkedin.com/company/osint4fun/) |
+
 
 
 
