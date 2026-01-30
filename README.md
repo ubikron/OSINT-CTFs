@@ -17,6 +17,7 @@ In this repository, you will find Capture The Flag platforms that will help you 
 |![Kase Scenarios](https://media.licdn.com/dms/image/v2/C4D0BAQEfVo2g4CsKbg/company-logo_200_200/company-logo_200_200/0/1670093395858/scenarios_by_kase_logo?e=1770249600&v=beta&t=7u_Ik5Oms1kWHu5PXCNGegK-BhNDFljRFe8carmDZwM)| Kase Scenarios | https://kasescenarios.com/  | [Linkedin](https://www.linkedin.com/company/kase-scenarios/) |
 |![OSINT Challenges](https://media.licdn.com/dms/image/v2/D560BAQFDQDl4O3f3ew/img-crop_100/B56Zu1xqmdGsAM-/0/1768281256260?e=1771459200&v=beta&t=aFZBt_utcrFMtwses7_HUZYVbygKY94TpmoqX3K66ig)| OSINT Challenges| https://osintchallenges.com/ | [Linkedin](https://www.linkedin.com/company/osint-challenges/posts/) |
 |![OSINT for FUN](https://media.licdn.com/dms/image/v2/D4E0BAQG-Ugy-dTdg4g/company-logo_200_200/company-logo_200_200/0/1704990128718/osint4fun_logo?e=1771459200&v=beta&t=k7e3ErXDSidj6xEUM0xSI-chSh-cpeupV_Xf67or_AI)| OSINT for FUN | https://en.osint4fun.eu/challenges/ | [Linkedin](https://www.linkedin.com/company/osint4fun/) |
+|![UK OSINT CTF ](https://media.licdn.com/dms/image/v2/D4E0BAQHWBROSV1aIOw/company-logo_100_100/company-logo_100_100/0/1715700162453/osintuk_logo?e=1771459200&v=beta&t=51FXdrxn-lEZBKTI2l2xd9lREqCjpUN7JmCIg6yw9rE)| UK OSINT CTF | https://ctf.osint.uk/| [Linkedin](https://www.linkedin.com/company/osintuk/posts/?feedView=all) |
 
 
 
