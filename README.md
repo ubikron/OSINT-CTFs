@@ -9,6 +9,7 @@ In this repository, you will find Capture The Flag platforms that will help you 
 |![OSINT Industries CTF](images/OSINT_Industries_CTF.jpeg)| OSINT Industries CTF | https://ctf.osint.industries/  | [Linkedin](https://www.linkedin.com/company/osint-industries/) |
 |![TryHackMe](images/TryHackMe_CTFs.jpeg)| TryHackMe CTFs (many different OSINT rooms)  | https://tryhackme.com/room/ohsint |   [Linkedin](https://www.linkedin.com/company/tryhackme/) |
 |![Hacktoria](images/HACKTORIA.jpeg)| Hacktoria | https://hacktoria.com/  |    [Linkedin](https://www.linkedin.com/company/hacktoriactf/) |
+|![HHS OSINT CFTF](https://assets.happyhacking.space/flag-standalone.svg)| HHS OSINT CTF | https://hhs.ninja/ |  [LinkedIN](https://www.linkedin.com/company/happyhackingspace) |
 |![Diver OSINT CTF](images/Diver_OSINT_CTF.jpeg)| Diver OSINT CTF  | https://diverctf.org/en.html   | [Twitter](https://x.com/DIVER_OSINT_CTF) |
 |![Maltego Community CTF ](images/Maltego_Community_CTF.jpeg)| Maltego Community CTF  | https://www.maltego.com/community-ctf/ |    [Linkedin](https://www.linkedin.com/company/maltego/) |
 |![Gralhix (Sofia Santos) OSINT Analysis & Exercises](images/Gralhix_OSINT_Analysis_Exercises.webp) | Gralhix (Sofia Santos) OSINT Analysis & Exercises   [Linkedin](https://www.linkedin.com/in/sofia-santos-/) |
