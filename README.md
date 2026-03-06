@@ -11,7 +11,7 @@ In this repository, you will find Capture The Flag platforms that will help you 
 |![Hacktoria](images/HACKTORIA.jpeg)| Hacktoria | https://hacktoria.com/  |    [Linkedin](https://www.linkedin.com/company/hacktoriactf/) |
 |![Diver OSINT CTF](images/Diver_OSINT_CTF.jpeg)| Diver OSINT CTF  | https://diverctf.org/en.html   | [Twitter](https://x.com/DIVER_OSINT_CTF) |
 |![Maltego Community CTF ](images/Maltego_Community_CTF.jpeg)| Maltego Community CTF  | https://www.maltego.com/community-ctf/ |    [Linkedin](https://www.linkedin.com/company/maltego/) |
-|![Gralhix (Sofia Santos) OSINT Analysis & Exercises](images/Gralhix_OSINT_Analysis_Exercises.webp) | Gralhix (Sofia Santos) OSINT Analysis & Exercises   [Linkedin](https://www.linkedin.com/in/sofia-santos-/) |
+|![Gralhix (Sofia Santos) OSINT Analysis & Exercises](images/Gralhix_OSINT_Analysis_Exercises.webp) | Gralhix (Sofia Santos) OSINT Analysis & Exercises  | https://gralhix.com/ | [Linkedin](https://www.linkedin.com/in/sofia-santos-/) |
 |![Bellingcat Open Source Challenge](images/Bellingcat_Open_Source_Challenge.jpeg)| Bellingcat Open Source Challenge | https://challenge.bellingcat.com/  | [Linkedin](https://www.linkedin.com/company/bellingcat/) |
 |![OSMOSIS CTF](images/OSMOSIS_CTF.jpeg)| OSMOSIS CTF | https://osmosis.ctfd.io/  | [Linkedin](https://linkedin.com/company/osmosis-association) |
 |![Kase Scenarios](images/Kase_Scenarios.jpeg)| Kase Scenarios | https://kasescenarios.com/  | [Linkedin](https://www.linkedin.com/company/kase-scenarios/) |
